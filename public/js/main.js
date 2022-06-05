@@ -3,7 +3,7 @@ const preBtn = document.querySelector("#preBtn");
 const nextBtn = document.querySelector("#nextBtn");
 const dotBtn = document.querySelectorAll(".dotBtn");
 
-let counter = 0;
+let counter = 1;
 const imgArr = ["url('./images/img1.jpg')", 
                            "url('./images/img2.jpg')",
                            "url('./images/img3.jpg')",
